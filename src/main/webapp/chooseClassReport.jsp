@@ -12,7 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="WelcomPage.html">Back to Main Menu</a><br>
+<a href="WelcomePage.html">Back to Main Menu</a><br>
 
 <h1>Choose a Class for Report Page</h1>
 <%
